@@ -24,7 +24,7 @@ div.st-actionContainer li{
 
 .st-panel{
 	width: auto;
-	margin-bottom: 10%;
+	margin-bottom: 8px;
 	background-color: #fff;
 	color: #000;
 	border: 2px solid #eee;
@@ -52,7 +52,7 @@ div.st-panel{
 	color:#ffffff;
 	font-size:24px;
 	text-align:center;
-	line-height:60px;
+	line-height:48px;
 	cursor:pointer;
 	height: 100%;
 	width: 100%;
@@ -66,8 +66,8 @@ div.st-panel{
 
 .st-btn-container{
 	background:#25AAF2;
-	width:60px;
-	height:60px;
+	width:48px;
+	height:48px;
 	border-radius:100%;
 	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
