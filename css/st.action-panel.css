@@ -15,8 +15,8 @@
 }
 
 .left-bottom {
-	bottom: 2em;
-	left: 2em;
+	bottom: 0.5em;
+	left: 0.5em;
 	float: left !important;
 }
 
