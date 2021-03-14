@@ -9,8 +9,8 @@
 }
 
 .right-bottom {
-	bottom: 2em;
-	right: 2em;
+	bottom: 0.5em;
+	right: 0.5em;
 	float: right !important;
 }
 
@@ -69,7 +69,7 @@ div.st-panel{
 }
 
 .st-btn-container{
-	background:#D15D36;
+	background:#25AAF2;
 	width:60px;
 	height:60px;
 	border-radius:100%;
